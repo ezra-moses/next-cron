@@ -19,7 +19,7 @@
         <ioutils.version>2.5</ioutils.version>
         <fontawesomefx.version>8.9</fontawesomefx.version>
         <log4j-api.version>2.11.2</log4j-api.version>
-        <log4j-core.version>2.11.2</log4j-core.version>
+        <log4j-core.version>2.13.2</log4j-core.version>
         <app.main.class>com.byteland.Main</app.main.class>
         <app.execute.main.class>com.byteland.CronExecute</app.execute.main.class>
     </properties>
